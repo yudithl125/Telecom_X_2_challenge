@@ -7,13 +7,9 @@ Proyecto de análisis y modelado predictivo para anticipar la cancelación de cl
 ## 📁 Estructura del Repositorio
 ```
 📦 Telecom_X_2_challenge
- ├── data/                # Datos procesados y tratados
- ├── notebooks/           # Notebooks de análisis y modelado
- ├── models/              # Modelos entrenados (opcional)
- ├── outputs/             # Resultados y visualizaciones
- ├── informe_cancelacion.md # Informe técnico en Markdown
- ├── requirements.txt     # Paquetes necesarios
- └── README.md            # Este archivo
+ ├── Telecom_X_2_challenge.ipynb           # Notebook de análisis y modelado
+ ├── champion_model.pkl                    # Modelos Champion entrenado
+ └── README.md                             # Este archivo
 ```
 
 ---
